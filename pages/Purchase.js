@@ -11,21 +11,6 @@ function Purchase() {
             <div class="min-h-screen mt-4">
                 <div class="p-4 gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 select-none">
                     <div class="w-full cursor-pointer rounded-md shadow-md shadow-gray-200 hover:shadow-blue-400/80 hover:shadow-2xl hover:bg-gray-50">
-                        <Image class="aspect-video bg-cover w-full rounded-t-md min-h-40" src="/fd-samsung-s7-cracked-broken-6654-001.webp" height={200} width={400} />
-                        <div class="p-4">
-                            <span class="text-blue-600 font-normal text-base">Samsung Galaxy S7</span>
-                            <p class="font-semibold text-xl py-2">Broken screen</p>
-                            <p class="font-light text-gray-700 text-justify line-clamp-3">Description</p>
-                            <div class="flex flex-wrap mt-10 space-x-4 align-bottom">
-                                <img class="w-10 h-10 rounded-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPdvF3u9YGCmWQZDGug3Jy2Eqrb4XuoOQbjozL6ObMiSl_2AvFQGSdpuqNPgADM37GJQ&usqp=CAU" />
-                                <div class="flex flex-col space-y-0">
-                                    <p class="font-semibold text-base">Dharmik</p>
-                                    <p class="font-light text-sm">Email : dharmik@gmail.com</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="w-full cursor-pointer rounded-md shadow-md shadow-gray-200 hover:shadow-blue-400/80 hover:shadow-2xl hover:bg-gray-50">
                         <Image class="aspect-video bg-cover w-full rounded-t-md min-h-40" src="/SGFold.jpg" height={200} width={400} />
                         <div class="p-4">
                             <span class="text-blue-600 font-normal text-base">Samsung Galaxy Fold</span>
@@ -36,6 +21,21 @@ function Purchase() {
                                 <div class="flex flex-col space-y-0">
                                     <p class="font-semibold text-base">Jenil</p>
                                     <p class="font-light text-sm">Email : jenil@gmail.com</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full cursor-pointer rounded-md shadow-md shadow-gray-200 hover:shadow-blue-400/80 hover:shadow-2xl hover:bg-gray-50">
+                        <Image class="aspect-video bg-cover w-full rounded-t-md min-h-40" src="/fd-samsung-s7-cracked-broken-6654-001.webp" height={200} width={400} />
+                        <div class="p-4">
+                            <span class="text-blue-600 font-normal text-base">Samsung Galaxy S7</span>
+                            <p class="font-semibold text-xl py-2">Broken screen</p>
+                            <p class="font-light text-gray-700 text-justify line-clamp-3">Description</p>
+                            <div class="flex flex-wrap mt-10 space-x-4 align-bottom">
+                                <img class="w-10 h-10 rounded-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPdvF3u9YGCmWQZDGug3Jy2Eqrb4XuoOQbjozL6ObMiSl_2AvFQGSdpuqNPgADM37GJQ&usqp=CAU" />
+                                <div class="flex flex-col space-y-0">
+                                    <p class="font-semibold text-base">Dharmik</p>
+                                    <p class="font-light text-sm">Email : dharmik@gmail.com</p>
                                 </div>
                             </div>
                         </div>
