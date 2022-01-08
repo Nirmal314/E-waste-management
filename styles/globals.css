@@ -1,0 +1,27 @@
+/** @format */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    body {
+        @apply bg-black text-white;
+        font-family: 'Spline Sans', sans-serif;
+    }
+
+    html {
+        @apply scroll-smooth;
+    }
+}
+
+@layer components {
+    .dropDownItems {
+        @apply block px-6 py-1 text-center border-y-2 border-transparent;
+    }
+
+    .m_text {
+        font-family: 'Merriweather', serif;
+    }
+}
